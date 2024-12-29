@@ -43,7 +43,7 @@ A modern social media platform built with Next.js 14, Node.js, and MongoDB.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/connectsphere.git
+git clone https://github.com/snackshell/connectsphere.git
 ```
 
 2. Install dependencies
